@@ -14,4 +14,5 @@ Put the files under Unreal to your Unreal project folder.
 Open Daz Studio, put a G8.1 figure. Select it and click in the file Genesis 8.1 Female/Male Epic Eyes.duf. This will add an eye geograft to the figure. Export the figure to your unreal project using the Daz to Unreal bridge. In unreal, apply the meta human eye shader to the eyes materials slots.
 
 v1 - Initial Commit
+
 v1.1 - Fix Eye Smoothness
