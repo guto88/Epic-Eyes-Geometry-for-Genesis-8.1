@@ -4,7 +4,7 @@ REMOVE OLD FILES BEFORE YOU UPDATE
 
 This is an anatomy eye for Genesis 8/8.1 figures compatible with the metahumans/digital humans eye shader.
 
-This project is intended to be used solely with Unreal Engine Projects. It does not comes with texture or shaders to be used inside Daz Studio.
+This project is intended to be used solely with Unreal Engine Projects. It does not comes with textures or shaders to be used inside Daz Studio.
 
 HOW  TO USE
 
