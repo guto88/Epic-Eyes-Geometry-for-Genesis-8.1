@@ -8,10 +8,12 @@ This project is intended to be used solely with Unreal Engine Projects.
 
 HOW  TO USE
 
-Put the files under the Daz folder to your Daz assets library.
-Put the files under Unreal to your Unreal project folder.
-
-Open Daz Studio, put a G8.1 figure. Select it and click in the file Genesis 8.1 Female/Male Epic Eyes.duf. This will add an eye geograft to the figure. Export the figure to your unreal project using the Daz to Unreal bridge. In unreal, apply the meta human eye shader to the eyes materials slots.
+1) Copy contents of Daz folder over to Content Library
+1.5) Copy contents of Unreal folder over to Content folder in Unreal project
+2) Add Genesis 8.1 figure to scene and keep selected
+3) Find Genesis 8.1 Female Epic Eyes under Anatomy and double-click to parent / fit it to Genesis figure
+4) Export via Daz to Unreal
+5) Open skeletal mesh in Unreal and apply M_EyeRefractive_Inst_R and _L to the right and left eyes respectively
 
 v1 - Initial Commit
 
