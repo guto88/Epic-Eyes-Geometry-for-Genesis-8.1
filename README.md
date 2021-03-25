@@ -11,7 +11,7 @@ HOW  TO USE
 1) Copy contents of Daz folder over to Content Library
 2) Copy contents of Unreal folder over to Content folder in Unreal project
 3) Add Genesis 8.1 figure to scene and keep selected
-4) Find Genesis 8.1 Female Epic Eyes under Anatomy and double-click to parent / fit it to Genesis figure
+4) Find Genesis 8.1 Epic Eyes under Anatomy and double-click to parent / fit it to Genesis figure
 5) Export via Daz to Unreal
 6) Open skeletal mesh in Unreal and apply M_EyeRefractive_Inst_R and _L to the right and left eyes respectively
 
