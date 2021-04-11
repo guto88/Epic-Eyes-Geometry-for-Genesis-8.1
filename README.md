@@ -1,5 +1,7 @@
 # Epic Eyes Geometry for Genesis 8 and Genesis 8.1
 
+# This files are only for use within an Epic Unreal Engine project and their download and use from this repository acknowledges your agreement to be bound by the terms and conditions implied by the Epic Unreal Engine license agreement and Daz3d license agreement.
+
 REMOVE OLD FILES BEFORE YOU UPDATE
 
 This is an anatomy eye for Genesis 8/8.1 figures compatible with the metahumans/digital humans eye shader.
